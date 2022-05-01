@@ -1,3 +1,3 @@
-alert('Hola Copis Necio Toxico');
-alert('Hola Mamoshi');
+const nombre = prompt('Cual es tu nombre?');
+document.querySelector('.contenido').innerHTML=`${nombre} esta aprendiendo JavaScript Moderno`;
 
